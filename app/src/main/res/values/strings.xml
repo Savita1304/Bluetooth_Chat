@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Chat</string>
+
+
+    <string name="admob_app_id">ca-app-pub-5404247841790589~8564518052</string>
+    <string name="banner_home_footer1">ca-app-pub-5404247841790589/3527103359</string>
+    <string name="interstitial_full_screen">ca-app-pub-5404247841790589/5195408245</string>
+</resources>

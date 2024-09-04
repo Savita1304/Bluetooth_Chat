@@ -1,0 +1,42 @@
+<LinearLayout
+    android:id="@+id/layoutdrawrer"
+    android:gravity="left"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="2"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+
+
+    <TextView
+        android:padding="7dp"
+
+        android:layout_marginLeft="4dp"
+        android:id="@+id/text1"
+        android:textColor="#FFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
